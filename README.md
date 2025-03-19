@@ -69,6 +69,4 @@ Additionally, exception handling using try-with-resources ensures proper resourc
 
 
 # OUTPUTS
-![Image](https://github.com/user-attachments/assets/23474fb2-0edd-4242-8cdc-dbfba48a022d)
-
-![Image](https://github.com/user-attachments/assets/9249d0c8-f223-4d26-964e-6438ba8d6161)
+![Image](https://github.com/user-attachments/assets/5d13524c-d2fc-4ce6-b25e-c49286791b7b)
